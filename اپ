@@ -1,1 +1,6 @@
-[ { "1": "ابزار برتر", "2": "@vahid" }, { "1": "سلام" } ]
+{
+  "Visibility": "VISIBLE",
+  "Title": "Test",
+  "Text": "Test Message",
+  "image": "https://gadgetnews.net/wp-content/uploads/2022/01/1629032177____ef7-1.jpg"
+}
