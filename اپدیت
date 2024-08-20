@@ -2,9 +2,9 @@
   "Visibility": "VISIBLE",
   "Title": "آپدیت جدید",
   "Description": "نسخه جدیدی از نرم افزار در دسترس است",
-  "MainTextButton": "Update",
+  "MainTextButton": "بروزرسانی",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://rubika.ir/knkr_ir/EGIBGGAAJGHJAIB",
-  "Version": "1.1"
+  "Version": "2.0.4"
 }
